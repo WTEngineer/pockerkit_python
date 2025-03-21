@@ -6,3 +6,4 @@ mypy~=1.10.0
 Sphinx~=7.3.7
 sphinx-rtd-theme~=2.0.0
 twine~=5.1.0
+
